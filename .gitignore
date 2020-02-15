@@ -1,4 +1,3 @@
-app/
 .idea/
 
 
@@ -12,6 +11,8 @@ app/
 *.jar
 *.war
 *.ear
+*.zip
+*.apk
 
 ### Gradle ###
 .gradle
